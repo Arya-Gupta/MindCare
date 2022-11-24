@@ -129,7 +129,3 @@ Open VSCode -
 1.3 `pip install -r requirements.txt `
 
 1.4 `flask run`
-
-## Contributors:
-1. Jayesh Kumar Shaw
-2. Tandrima Singha
